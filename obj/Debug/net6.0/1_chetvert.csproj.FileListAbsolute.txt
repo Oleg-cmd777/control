@@ -1,0 +1,15 @@
+C:\Users\Oleg\Desktop\1_chetvert\bin\Debug\net6.0\1_chetvert.exe
+C:\Users\Oleg\Desktop\1_chetvert\bin\Debug\net6.0\1_chetvert.deps.json
+C:\Users\Oleg\Desktop\1_chetvert\bin\Debug\net6.0\1_chetvert.runtimeconfig.json
+C:\Users\Oleg\Desktop\1_chetvert\bin\Debug\net6.0\1_chetvert.dll
+C:\Users\Oleg\Desktop\1_chetvert\bin\Debug\net6.0\1_chetvert.pdb
+C:\Users\Oleg\Desktop\1_chetvert\obj\Debug\net6.0\1_chetvert.csproj.AssemblyReference.cache
+C:\Users\Oleg\Desktop\1_chetvert\obj\Debug\net6.0\1_chetvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleg\Desktop\1_chetvert\obj\Debug\net6.0\1_chetvert.AssemblyInfoInputs.cache
+C:\Users\Oleg\Desktop\1_chetvert\obj\Debug\net6.0\1_chetvert.AssemblyInfo.cs
+C:\Users\Oleg\Desktop\1_chetvert\obj\Debug\net6.0\1_chetvert.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\Desktop\1_chetvert\obj\Debug\net6.0\1_chetvert.dll
+C:\Users\Oleg\Desktop\1_chetvert\obj\Debug\net6.0\refint\1_chetvert.dll
+C:\Users\Oleg\Desktop\1_chetvert\obj\Debug\net6.0\1_chetvert.pdb
+C:\Users\Oleg\Desktop\1_chetvert\obj\Debug\net6.0\1_chetvert.genruntimeconfig.cache
+C:\Users\Oleg\Desktop\1_chetvert\obj\Debug\net6.0\ref\1_chetvert.dll
